@@ -1,1 +1,3 @@
 # seq2seq-sorters
+
+NOTES OF STUFF UNDER DEVELOPMENT
